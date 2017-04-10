@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CapacitiveHomeButton</string>
+    <string name="service_desc">Listens for home button taps</string>
+</resources>
